@@ -1,0 +1,7 @@
+[2019-04-06 20:00:03,232] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:10:03,251] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:20:03,270] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:30:03,287] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:40:03,304] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:50:03,319] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-04-06 20:58:52,885] INFO Updated PartitionLeaderEpoch. New: {epoch:0, offset:154}, Current: {epoch:-1, offset:-1} for Partition: course_available-0. Cache now contains 0 entries. (kafka.server.epoch.LeaderEpochFileCache)
